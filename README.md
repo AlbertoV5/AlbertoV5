@@ -2,7 +2,9 @@
 <h3 align="center">Data Analyst and Engineer</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies:</h3>
+
+Python, SQL, JavaScript.
 
 Analytics:
 
