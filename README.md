@@ -1,5 +1,5 @@
 <h1 align="center">Alberto Valdez</h1>
-<h3 align="center">Web Developer, Data Engineer</h3>
+<h3 align="center">Data | ML Engineer</h3>
 
 Python, SQL, TypeScript.
 
